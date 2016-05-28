@@ -1,5 +1,5 @@
 @check
-Feature: Checking Lufthansa home page
+Feature: Checking Lufthansa site
 
 Scenario: Checking drop down values into Lufthansa site
 Given I open Lufthansa url
